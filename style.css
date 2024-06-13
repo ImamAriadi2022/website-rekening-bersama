@@ -1,0 +1,130 @@
+.layout1 {
+    padding-top: 10rem;
+}
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.layout {
+    padding-top: 3rem;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: #8f8f8f;
+}
+
+.radius {
+    width: 200px; 
+    height: 40px; 
+    border-radius: 10px;
+}
+
+.button-style{
+    padding-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.detail-button-style {
+    color: #071fa8;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    background-color: #ec9e0c;
+    border-radius: 10px;
+    border-color: #ec9e0c;
+}
+
+
+.container1 {
+    width: 200px; 
+    height: 630px; 
+    background: radial-gradient(circle at top left, #019488, #071fa8 50%);
+    border-radius: 20px;
+}
+
+
+.warnaForm {
+    color: aliceblue;
+}
+
+.navbar-fontHF:hover{
+    color: #ec9e0c;
+}
+.navbar-fontHF{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.judul-section-tiga {
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.ilustrasi {
+    width: 300px;
+    border-radius: 20px;
+}
+
+.Konten-tutorial {
+    width: 7rem;
+}
+
+.container2{
+    background-color: #ffffff;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+
+.judul-lima {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.my-link {
+    text-decoration: none;
+    color: #071fa8;
+}
+
+.layout-card-costumer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.judul-enam {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 3rem;
+}
+
+.footer-wa {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.styleH3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 2rem;
+}
